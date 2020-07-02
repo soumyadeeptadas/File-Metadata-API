@@ -1,5 +1,5 @@
 # File-Metadata-API
-See all information about the uploaded file
+See all information about an uploaded file
 
 
 ## App Link:
